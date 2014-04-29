@@ -1,0 +1,16 @@
+{
+  "name": "fedux_org-revealjs",
+  "description": "Theme for reveal.js presentation framework",
+  "version": "0.0.1",
+  "license": "CC BY 4.0",
+  "main": [
+    "scss/fedux_org.scss"
+    ],
+  "ignore": [],
+  "dependencies": {
+    "jquery": ">= 1.10.0"
+    "fontawesome": ">= 4.0.3"
+    "open-sans-fontface": ">= 1.0.3"
+    "reveal.js": "latest"
+  }
+}
