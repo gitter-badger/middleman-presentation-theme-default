@@ -5,10 +5,10 @@
  */
 
 // Default mixins and settings -----------------
-@import "reveal.js/css/source/template/mixins";
-@import "reveal.js/css/source/template/settings";
+@import "reveal.js/css/theme/template/mixins";
+@import "reveal.js/css/theme/template/settings";
 @import "open-sans";
-@import "font-awesome";
+@import "fontawesome/scss/font-awesome";
 // ---------------------------------------------
 
 // Override theme settings (see ../template/settings.scss)
@@ -32,7 +32,7 @@ $bulletPointColor: #2f2f2f;
 //}
 
 // Theme template ------------------------------
-@import "reveal.js/css/source/template/template";
+@import "reveal.js/css/theme/template/theme";
 // ---------------------------------------------
 
 section.start_slide {
