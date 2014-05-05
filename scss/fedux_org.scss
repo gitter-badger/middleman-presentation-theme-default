@@ -7,7 +7,16 @@
 // Default mixins and settings -----------------
 @import "reveal.js/css/theme/template/mixins";
 @import "reveal.js/css/theme/template/settings";
-@import "open-sans";
+// ---------------------------------------------
+
+@import 'reveal.js/css/reveal.min';
+//@import 'reveal.js/css/theme/source/default';
+@import 'reveal.js/lib/css/zenburn';
+
+// fonts --------------------------------------
+$fa-font-path:        "../vendor/assets/components/fontawesome/fonts";
+$open-sans-path: "../vendor/assets/components/open-sans/fonts";
+@import "open-sans/scss/open-sans";
 @import "fontawesome/scss/font-awesome";
 // ---------------------------------------------
 
