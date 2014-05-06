@@ -1,5 +1,5 @@
-# reveal.js-fedux.org
+# reveal.js-template-fedux.org
 
 ```shell
-bower install reveal.js-fedux.org
+bower install reveal.js-template-fedux.org
 ```
