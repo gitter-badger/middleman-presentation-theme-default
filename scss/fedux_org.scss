@@ -23,6 +23,8 @@ $open-sans-path: "../vendor/assets/components/open-sans/fonts";
 $lb-image-path: "../vendor/assets/components/lightbox2/img";
 @import "lightbox2/sass/lightbox";
 
+@import '../workaround_lightbox';
+
 // Override theme settings (see ../template/settings.scss)
 $mainFont: 'Open Sans', sans-serif;
 $mainColor: #000000;
