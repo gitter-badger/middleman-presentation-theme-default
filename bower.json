@@ -11,7 +11,7 @@
     "jquery": ">= 1.10.0",
     "fontawesome": ">= 4.0.3",
     "open-sans": ">= 1.1.0",
-    "reveal.js": "latest"
+    "reveal.js": "latest",
     "lightbox2": "latest"
   }
 }
