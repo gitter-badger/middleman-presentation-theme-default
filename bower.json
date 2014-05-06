@@ -12,6 +12,6 @@
     "fontawesome": ">= 4.0.3",
     "open-sans": ">= 1.1.0",
     "reveal.js": "latest",
-    "lightbox2": "latest"
+    "lightbox2": "https://github.com/dg-vrnetze/revealjs-lightbox2"
   }
 }
