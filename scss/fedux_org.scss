@@ -20,6 +20,8 @@ $open-sans-path: "../vendor/assets/components/open-sans/fonts";
 @import "fontawesome/scss/font-awesome";
 // ---------------------------------------------
 
+@import "lightbox2/css/lightbox";
+
 // Override theme settings (see ../template/settings.scss)
 $mainFont: 'Open Sans', sans-serif;
 $mainColor: #000000;
