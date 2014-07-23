@@ -1,4 +1,4 @@
-$fd-img-path: '../images';
+$fd-img-path: '../images' !default;
 
 img.fd-logo-contact {
   background-image: url("#{$fd-img-path}/logo-contact.png");
