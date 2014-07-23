@@ -1,17 +1,17 @@
 $fd-img-path: '../images';
 
 img.fd-logo-contact {
-  background-image: url("${fd-img-path}/logo-contact.png");
+  background-image: url("#{$fd-img-path}/logo-contact.png");
 }
 
 img.fd-logo-engagement {
-  background-image: url("${fd-img-path}/logo-engagement.png");
+  background-image: url("#{$fd-img-path}/logo-engagement.png");
 }
 
 img.fd-logo-question {
-  background-image: url("${fd-img-path}/logo-question.png");
+  background-image: url("#{$fd-img-path}/logo-question.png");
 }
 
 img.fd-logo-solution {
-  background-image: url("${fd-img-path}/logo-solution.png");
+  background-image: url("#{$fd-img-path}/logo-solution.png");
 }
