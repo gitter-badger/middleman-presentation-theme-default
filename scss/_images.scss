@@ -1,0 +1,17 @@
+$fd-img-path: '../images';
+
+img.contact {
+  background-image: url("${fd-img-path}/logo-contact.png");
+}
+
+img.engagement {
+  background-image: url("${fd-img-path}/logo-engagement.png");
+}
+
+img.question {
+  background-image: url("${fd-img-path}/logo-question.png");
+}
+
+img.solution {
+  background-image: url("${fd-img-path}/logo-solution.png");
+}
