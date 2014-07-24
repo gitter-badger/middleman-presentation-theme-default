@@ -1,8 +1,5 @@
 // URL to base font directory
-//$pt-path: "../fonts" !default;
 $pt-font-path: font-path('fedux_org/fonts') !default;
-
-// @font-face mixin
 
 @mixin pt-font-face( $family, $font, $filename, $svgid, $weight: normal, $style: normal ) {
 	@font-face {
