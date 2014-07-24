@@ -1,18 +1,17 @@
 {
   "name": "fedux_org-revealjs-theme",
   "description": "Theme for reveal.js presentation framework",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "CC BY 4.0",
   "main": [
     "scss/fedux_org.scss"
+    "js/fedux_org.js"
     ],
   "ignore": [],
   "dependencies": {
     "jquery": ">= 1.10.0",
     "fontawesome": ">= 4.0.3",
     "open-sans": ">= 1.1.0",
-    "reveal.js": "latest",
-    "lightbox2": "https://github.com/dg-vrnetze/revealjs-lightbox2.git",
     "d3": "latest"
   }
 }
