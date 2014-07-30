@@ -273,3 +273,11 @@ i.fd-print {
   @extend .fa-print;
   margin-left: 5px;
 }
+
+.reveal code {
+  font-family: "Inconsolata", monospace;
+  color: #8f8f8f; 
+  font-size: 0.9em;
+  margin-left: 5px;
+  margin-right: 5px;
+}
