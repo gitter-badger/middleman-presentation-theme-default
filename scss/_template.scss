@@ -192,6 +192,20 @@ li>i.fd-hint {
   font-size: 1em;
 }
 
+li>i.fd-ok {
+  @extend .fa;
+  @extend .fa-plus-circle;
+  margin-right: 15px;
+  font-size: 1em;
+}
+
+li>i.fd-not-ok {
+  @extend .fa;
+  @extend .fa-circle-o;
+  margin-right: 15px;
+  font-size: 1em;
+}
+
 section>i.fd-question {
   @extend .fa;
   @extend .fa-question;
