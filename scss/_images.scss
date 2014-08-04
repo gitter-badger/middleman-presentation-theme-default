@@ -1,11 +1,11 @@
-img.mp-logo-contact {
+div.mp-logo-contact {
   @extend .fa;
   @extend .fa-question;
   size: 10rem;
 }
 
-img.mp-logo-question {
+div.mp-logo-question {
   @extend .fa;
-  @extend .fa-phone;
+  @extend .fa-life-ring;
   size: 10rem;
 }
