@@ -23,7 +23,7 @@ $bulletPointColor: #2f2f2f;
 @import "reveal.js/css/theme/template/theme";
 // ---------------------------------------------
 
-section.start_slide {
+section.mp-start-slide {
 
   h1 {
     font-family: "Open Sans", sans-serif;
@@ -74,7 +74,7 @@ section.start_slide {
   box-shadow: none;
 }
 
-.hidden_step {
+.mp-hidden-step {
   list-style-type: none;
 }
 
@@ -176,22 +176,6 @@ blockquote cite:before {
 
 .hidden {
   display: none;
-}
-
-#proxy_round_trip {
-  @extend .hidden;
-}
-
-#logo-engagement {
-  @extend .hidden;
-  margin: 0px;
-  max-width: 250px;
-}
-
-#logo-idea {
-  display: inline-block;
-  margin: 0px;
-  max-width: 250px;
 }
 
 li>i.mp-hint {
