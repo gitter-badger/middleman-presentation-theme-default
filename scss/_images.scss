@@ -1,11 +1,12 @@
 div.mp-logo-contact {
   @extend .fa;
-  @extend .fa-question;
+  @extend .fa-life-ring;
   font-size: 10rem;
 }
 
 div.mp-logo-question {
   @extend .fa;
-  @extend .fa-life-ring;
+  @extend .fa-question;
   font-size: 10rem;
+  vertical-align: middle;
 }
