@@ -194,28 +194,28 @@ blockquote cite:before {
   max-width: 250px;
 }
 
-li>i.fd-hint {
+li>i.mp-hint {
   @extend .fa;
   @extend .fa-exclamation-triangle;
   margin-right: 15px;
   font-size: 1em;
 }
 
-li>i.fd-ok {
+li>i.mp-ok {
   @extend .fa;
   @extend .fa-plus-circle;
   margin-right: 15px;
   font-size: 1em;
 }
 
-li>i.fd-not-ok {
+li>i.mp-not-ok {
   @extend .fa;
   @extend .fa-circle-o;
   margin-right: 15px;
   font-size: 1em;
 }
 
-section>i.fd-question {
+section>i.mp-question {
   @extend .fa;
   @extend .fa-question;
   margin-right: 15px;
@@ -226,37 +226,15 @@ ul > li {
   margin-left: 2em;
 }
 
-ul.fd-with-image {
+ul.mp-with-image {
   vertical-align: middle;
 }
 
-img.fd-with-list {
+img.mp-with-list {
   vertical-align: middle;
 }
 
-.reveal ul.fd-iconless-list {
-  list-style-type: none;
-}
-
-li > i.fd-phone {
-  @extend .fa;
-  @extend .fa-phone;
-  margin-right: 15px;
-}
-
-li > i.fd-mail {
-  @extend .fa;
-  @extend .fa-envelope;
-  margin-right: 15px;
-}
-
-li > i.fd-github {
-  @extend .fa;
-  @extend .fa-github;
-  margin-right: 15px;
-}
-
-a.fd-external-url:after {
+a.mp-external-url:after {
   font-family: "FontAwesome";
   content: "\f08e"; 
   margin-left: 12px;
@@ -264,7 +242,7 @@ a.fd-external-url:after {
   font-size: 0.7em;
 }
 
-img.fd-preview-image {
+img.mp-preview-image {
   max-width: 300px;
   max-height: 300px;
   display: inline-block;
@@ -282,16 +260,16 @@ footer#site-footer {
   z-index: 99;
 }
 
-#fd-copyright-notice {
+#mp-copyright-notice {
   min-height: 10px;
   font-size: 0.75rem;
   display: inline-block;
 }
 
-a#fd-print-link {
+a#mp-print-link {
 }
 
-i.fd-print {
+i.mp-print {
   @extend .fa;
   @extend .fa-print;
   margin-left: 5px;
