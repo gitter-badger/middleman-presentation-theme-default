@@ -282,3 +282,25 @@ i.mp-print {
   margin-left: 5px;
   margin-right: 5px;
 }
+
+li > i.mp-phone {
+  @extend .fa;
+  @extend .fa-phone;
+  margin-right: 15px;
+}
+
+li > i.mp-mail {
+  @extend .fa;
+  @extend .fa-envelope;
+  margin-right: 15px;
+}
+
+li > i.mp-github {
+  @extend .fa;
+  @extend .fa-github;
+  margin-right: 15px;
+}
+
+.reveal ul.mp-iconless-list {
+  list-style-type: none;
+}
