@@ -66,6 +66,10 @@ section.mp-start-slide {
     margin: 0px;
     display: inline-block;
   }
+
+  .mp-version:after {
+    content: ', '
+  }
 }
 
 .reveal section img {
@@ -288,3 +292,4 @@ li > i.mp-github {
 .reveal ul.mp-iconless-list {
   list-style-type: none;
 }
+
