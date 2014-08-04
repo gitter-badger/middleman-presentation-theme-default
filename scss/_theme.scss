@@ -38,12 +38,12 @@ section.start_slide {
     font-family: "Open Sans", sans-serif;
   }
 
-  .headline {
+  .mp-headline {
     display: inline-block;
     width: 70%;
   }
 
-  .author {
+  .mp-author {
     font-size: 2rem;
     color: #2f2f2f;
     line-height: 1rem;
@@ -51,7 +51,7 @@ section.start_slide {
     margin-bottom: 5px;
   }
 
-  .license {
+  .mp-license {
     font-size: 1rem;
     color: #2f2f2f;
     line-height: 1rem;
@@ -59,7 +59,7 @@ section.start_slide {
     display: inline-block;
   }
 
-  .version {
+  .mp-version {
     font-size: 1rem;
     color: #2f2f2f;
     line-height: 1rem;
