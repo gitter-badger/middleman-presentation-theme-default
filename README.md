@@ -1,5 +1,5 @@
-# reveal.js-template-fedux.org
+# middleman-presentation-theme-default
 
 ```shell
-bower install reveal.js-template-fedux.org
+bower install middleman-presentation-theme-default
 ```

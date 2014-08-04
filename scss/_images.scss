@@ -1,17 +1,9 @@
-$fd-img-path: image-path('fedux_org/images') !default;
-
 img.fd-logo-contact {
-  background-image: url("#{$fd-img-path}/logo-contact.png");
-}
-
-img.fd-logo-engagement {
-  background-image: url("#{$fd-img-path}/logo-engagement.png");
+  @extend .fa .fa-question;
+  size: 10rem;
 }
 
 img.fd-logo-question {
-  background-image: url("#{$fd-img-path}/logo-question.png");
-}
-
-img.fd-logo-solution {
-  background-image: url("#{$fd-img-path}/logo-solution.png");
+  @extend .fa .fa-phone;
+  size: 10rem;
 }

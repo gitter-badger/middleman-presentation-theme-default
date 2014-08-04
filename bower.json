@@ -1,11 +1,11 @@
 {
-  "name": "fedux_org-revealjs-theme",
-  "description": "Theme for reveal.js presentation framework",
-  "version": "0.0.3",
+  "name": "middleman-presentation-theme-default",
+  "description": "Default theme for middleman presentation",
+  "version": "0.0.1",
   "license": "CC BY 4.0",
   "main": [
-    "scss/fedux_org.scss",
-    "js/fedux_org.js"
+    "scss/middleman-presentation.scss",
+    "js/middleman-presentation.js"
     ],
   "ignore": [],
   "dependencies": {
