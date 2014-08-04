@@ -1,9 +1,11 @@
 img.fd-logo-contact {
-  @extend .fa .fa-question;
+  @extend .fa;
+  @extend .fa-question;
   size: 10rem;
 }
 
 img.fd-logo-question {
-  @extend .fa .fa-phone;
+  @extend .fa;
+  @extend .fa-phone;
   size: 10rem;
 }
