@@ -1,7 +1,7 @@
 {
   "name": "middleman-presentation-theme-default",
   "description": "Default theme for middleman presentation",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "license": "CC BY 4.0",
   "main": [
     "stylesheets/middleman-presentation-theme-default.scss"
