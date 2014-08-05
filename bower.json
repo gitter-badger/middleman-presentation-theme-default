@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "CC BY 4.0",
   "main": [
-    "stylesheets/middleman-presentation-theme-default.scss",
+    "stylesheets/middleman-presentation-theme-default.scss"
     ],
   "ignore": [],
   "dependencies": {
