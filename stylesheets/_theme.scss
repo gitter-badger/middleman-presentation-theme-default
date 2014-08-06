@@ -235,7 +235,7 @@ img.mp-preview-image {
   border-radius: 10px;
 }
 
-footer.mp-site-footer {
+.reveal footer.mp-site-footer {
   position: absolute;
   bottom: 20px;
   left: 0px;
@@ -244,16 +244,16 @@ footer.mp-site-footer {
   z-index: 99;
 }
 
-.mp-copyright-notice {
+.reveal .mp-copyright-notice {
   min-height: 10px;
   font-size: 0.75rem;
   display: inline-block;
 }
 
-a.mp-print-link {
+.reveal a.mp-print-link {
 }
 
-i.mp-print {
+.reveal i.mp-print {
   @extend .fa;
   @extend .fa-print;
   margin-left: 5px;
