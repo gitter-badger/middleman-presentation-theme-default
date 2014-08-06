@@ -156,10 +156,6 @@ blockquote cite:before {
   border-radius: 10px;
 }
 
-//::-webkit-scrollbar-track-piece  {
-//  background-color: #ff530a;
-//}
-
 ::-webkit-scrollbar-thumb {
   -webkit-box-shadow: inset 0 0 6px #ff530a; 
   background-color: #ff530a;
@@ -239,7 +235,7 @@ img.mp-preview-image {
   border-radius: 10px;
 }
 
-footer#mp-site-footer {
+footer.mp-site-footer {
   position: absolute;
   bottom: 20px;
   left: 0px;
@@ -248,13 +244,13 @@ footer#mp-site-footer {
   z-index: 99;
 }
 
-#mp-copyright-notice {
+.mp-copyright-notice {
   min-height: 10px;
   font-size: 0.75rem;
   display: inline-block;
 }
 
-a#mp-print-link {
+a.mp-print-link {
 }
 
 i.mp-print {
