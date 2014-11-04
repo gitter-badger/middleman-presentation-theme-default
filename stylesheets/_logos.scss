@@ -1,12 +1,12 @@
 div.mp-logo-question {
-  @extend .fa;
+  @extend .mp-icon;
   @extend .fa-question;
   font-size: 10rem;
   vertical-align: middle;
 }
 
 div.mp-logo {
-  @extend .fa;
+  @extend .mp-icon;
   @extend .fa-camera-retro;
   font-size: 10rem;
   vertical-align: middle;
